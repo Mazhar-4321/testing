@@ -1,4 +1,4 @@
-package com.mazhar;
+package com.mazhar.Assignments;
 
 public class Student {
     private String student_name;

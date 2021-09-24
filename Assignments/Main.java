@@ -1,9 +1,11 @@
-package com.mazhar;
+package com.mazhar.Assignments;
+
+//import com.mazhar.Student;
 
 public class Main
 {
     public static void main(String[] args) {
-        Student [] students= new  Student[5];
+        Student[] students= new  Student[5];
         students[0]= new Student();
         students[1]= new Student();
         students[2]= new Student();
