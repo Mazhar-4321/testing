@@ -8,6 +8,7 @@ import static java.lang.Integer.sum;
 public class ScannerProblem {
     public static void main(String[] args)
     {
+        // Scanner doesnt work in the order (int,int,nextLine) instead try (int,int,next)
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter The nums");
 
