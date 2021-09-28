@@ -16,7 +16,7 @@ public class ArrayInAscendingOrder
         for(int i=0;i<arr.length;i++)
         {
             arr[i]=sc.nextInt();
-            if(!(i>0&&arr[i-1]>arr[i]))
+            if(i>0&&(arr[i-1]>arr[i]))
             {
                 flag=false;
             }
