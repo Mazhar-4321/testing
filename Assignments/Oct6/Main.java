@@ -20,10 +20,10 @@ public class Main
       {
           if(x==0)
           {
-              System.out.println("Not A Panagram");return;
+              System.out.println(true);return;
           }
       }
-        System.out.println("Panagram");
+        System.out.println(false);
     }
 
 
